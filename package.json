@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.11.2",
     "lodash": "^4.17.19",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "socket.io": "^2.3.0"
   }
 }
