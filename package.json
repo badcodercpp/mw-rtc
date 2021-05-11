@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^4.11.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "open": "0.0.5",
     "socket.io": "^2.3.0"
   }
